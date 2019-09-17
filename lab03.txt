@@ -15,7 +15,11 @@ For this assignment you will follow the instructions at the above link to:
 In this space, type the sequence of commands you used to achieve the final state of all four files:
 
 
-
+Answer:
+Untracked - Make a file - nothing else
+Modified - Make the file - add file - then change the file
+Unmodified - make the file - add file - commit the file
+staged - Make the file - add the file
 
 %%%%%%%%%%%%%%% Working with GitHub %%%%%%%%%%%%%%%%%%%%%%
 
